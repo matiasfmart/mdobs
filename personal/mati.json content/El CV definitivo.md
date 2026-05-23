@@ -1,0 +1,1 @@
+CV anticuado? cv para los sistemas de rh? cv con porfolio? vamos a lo concreto. el cv que te sirve es el que **llame la atencion del reclutador**. porque lo que queremos con el cv, no es solamente expresar correctamente nuestro perfil, si no tambien que pueda ser **visto** por un empleador para conseguir el empleo, este es el objetivo real o no?.

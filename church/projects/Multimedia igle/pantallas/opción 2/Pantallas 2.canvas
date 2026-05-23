@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"aa512c8b52718a13","type":"group","x":240,"y":0,"width":360,"height":660,"label":"auditorio"},
+		{"id":"bdc232e30768b9f7","type":"group","x":240,"y":-540,"width":360,"height":460,"label":"plataforma"},
+		{"id":"b93ec830cd2c575b","type":"group","x":-280,"y":-190,"width":390,"height":270,"label":"cabina de multimedia"},
+		{"id":"339df4efb7a4623a","type":"text","text":"TV 2","x":421,"y":-160,"width":144,"height":50},
+		{"id":"7e3e7d52ec07ac77","type":"text","text":"TV 1","x":421,"y":-350,"width":144,"height":50},
+		{"id":"dc4a9e4f27308775","type":"text","text":"TV hall 1","x":421,"y":400,"width":144,"height":50},
+		{"id":"1ba6dbf46d079c15","type":"text","text":"TV auditorio 2","x":421,"y":253,"width":144,"height":50},
+		{"id":"aa99e068a1dce834","type":"text","text":"TV auditorio 1","x":421,"y":80,"width":144,"height":50},
+		{"id":"86ee0cfe82e8f03a","type":"text","text":"proyector","x":421,"y":-480,"width":144,"height":60},
+		{"id":"fa5bf59af4ebcf21","type":"text","text":"TV hall 2","x":421,"y":540,"width":144,"height":50},
+		{"id":"1872e637eb8e88b0","type":"text","text":"Switch de red gigabit","x":-90,"y":-87,"width":148,"height":65,"color":"4"},
+		{"id":"fbea5527a82fb93f","type":"text","text":"pc","x":-240,"y":-80,"width":91,"height":50}
+	],
+	"edges":[
+		{"id":"6a68433ad3931553","fromNode":"fbea5527a82fb93f","fromSide":"right","toNode":"1872e637eb8e88b0","toSide":"left"},
+		{"id":"befb959efcc5dba0","fromNode":"1872e637eb8e88b0","fromSide":"right","toNode":"86ee0cfe82e8f03a","toSide":"left","label":"red"},
+		{"id":"372cd5495a3ef693","fromNode":"1872e637eb8e88b0","fromSide":"right","toNode":"7e3e7d52ec07ac77","toSide":"left","label":"red"},
+		{"id":"560e54854d2f17ea","fromNode":"1872e637eb8e88b0","fromSide":"right","toNode":"339df4efb7a4623a","toSide":"left","label":"red"},
+		{"id":"8fbea33f3bd74832","fromNode":"1872e637eb8e88b0","fromSide":"right","toNode":"aa99e068a1dce834","toSide":"left","label":"red"},
+		{"id":"f647ad125adeb471","fromNode":"1872e637eb8e88b0","fromSide":"right","toNode":"1ba6dbf46d079c15","toSide":"left","label":"red"},
+		{"id":"17a5d361f85f76ef","fromNode":"1872e637eb8e88b0","fromSide":"right","toNode":"dc4a9e4f27308775","toSide":"left","label":"red"},
+		{"id":"b3009e42fa2eb5d0","fromNode":"1872e637eb8e88b0","fromSide":"right","toNode":"fa5bf59af4ebcf21","toSide":"left","label":"red"}
+	]
+}

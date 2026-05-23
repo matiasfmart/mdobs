@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == "church/sermons"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - ultima_predicacion
+      - fecha_creacion
+      - tipo
+    sort:
+      - property: tipo
+        direction: ASC

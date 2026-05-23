@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#66a1ff",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "theme": "system",
+  "baseFontSize": 15,
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": true
+}

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "e0bf245abefe603d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b67494abf7e6fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8876b49c1f8b06de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f1cc4638fc62b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "07dfc3245e22f94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c098ebfde11577d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4be76df51ae2f2cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#boceto",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88db08ebe0a74d77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "5baa5b03375301ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b98acc5c2da0be4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18560bfd6e92e7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "ed6bc30b6a416f13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "da3aaa0422ffc7bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "de2433ac1d5e08f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "development/Docker Contenedores y Despliegue.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Docker Contenedores y Despliegue"
+            }
+          },
+          {
+            "id": "2d267ffc08958487",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c098ebfde11577d9",
+  "lastOpenFiles": [
+    "README.md",
+    "work/notes/Template de solicitud de repos.md",
+    "knowledge/AI-Driven Contextual Development Framework (ACD).md",
+    "church/sermons/sermons.base",
+    "church/sermons/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
+    "church/sermons/Traigamos paz.md",
+    "church/sermons/Untitled.md",
+    "Untitled.base",
+    "church/sermons/Amistad que transforma.md",
+    "Untitled.md",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "church/sermons/_Mapa de Contenido.md",
+    "Direción + Responsabilidad = Propósito - Cierre 2025.md",
+    "_templates/Daily Note.md",
+    "work/proyects/zco/ARQUITECTURA_TECNICA_ZCO.md",
+    "_templates/Reunion.md",
+    "_templates/Predicacion.md",
+    "_templates",
+    "knowledge/Contenedores/Docker Contenedores y Despliegue.md",
+    "knowledge/Contenedores/deploy-process-guide-detailed.md",
+    "work/proyects/zco/ARQUITECTURA_PROPUESTA_ZCO_V2.md",
+    "work/notes/notas backlog.md",
+    "work/notes/cuantica repo.md",
+    "work/notes/coto invitados wifi.md",
+    "work/notes/cajas en sucursales.md",
+    "church/sermons/Dirección + Responsabilidad = Propósito - Cierre 2025.md",
+    "knowledge/backend ACD fwk.md",
+    "work/proyects/guia_entrevista_qa.md",
+    "work/notes/Objetivos 11.05.2026.md",
+    "work/notes/Untitled.md",
+    "work/proyects/Untitled",
+    "Untitled.canvas",
+    "church/projects/Multimedia igle/pantallas/opción 1/Pantallas 1.canvas",
+    "church/projects/Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
+    "Sin título.canvas",
+    "Sin título 1.canvas"
+  ]
+}
