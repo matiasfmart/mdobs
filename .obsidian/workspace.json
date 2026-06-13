@@ -11,10 +11,14 @@
             "id": "8876b49c1f8b06de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "church/sermons/Miedo al fracaso-factum.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Miedo al fracaso-factum"
             }
           }
         ]
@@ -175,11 +179,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c098ebfde11577d9",
+  "active": "8876b49c1f8b06de",
   "lastOpenFiles": [
+    "church/sermons/El miedo que no te deja avanzar.md",
+    "church/sermons/Tu Yo del mañana - el joven rico.md",
+    "church/sermons/Ofrendas.md",
+    "church/sermons/Mi religion no me permite.md",
+    "church/sermons/El proposito es YA.md",
+    "knowledge/context-first AI development scaffolding/estructura final - revisar.md",
+    "knowledge/context-first AI development scaffolding/Pilares del metodo.md",
+    "knowledge/context-first AI development scaffolding/AI-Driven Contextual Development Framework (ACD).md",
+    "knowledge/context-first AI development scaffolding",
     "README.md",
     "work/notes/Template de solicitud de repos.md",
-    "knowledge/AI-Driven Contextual Development Framework (ACD).md",
     "church/sermons/sermons.base",
     "church/sermons/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
     "church/sermons/Traigamos paz.md",
@@ -205,14 +217,6 @@
     "work/proyects/zco/ARQUITECTURA_PROPUESTA_ZCO_V2.md",
     "work/notes/notas backlog.md",
     "work/notes/cuantica repo.md",
-    "work/notes/coto invitados wifi.md",
-    "work/notes/cajas en sucursales.md",
-    "church/sermons/Dirección + Responsabilidad = Propósito - Cierre 2025.md",
-    "knowledge/backend ACD fwk.md",
-    "work/proyects/guia_entrevista_qa.md",
-    "work/notes/Objetivos 11.05.2026.md",
-    "work/notes/Untitled.md",
-    "work/proyects/Untitled",
     "Untitled.canvas",
     "church/projects/Multimedia igle/pantallas/opción 1/Pantallas 1.canvas",
     "church/projects/Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
