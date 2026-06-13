@@ -1,192 +1,236 @@
 ---
 fecha_creacion: 2026-06-13
-ultima_predicacion: 
+ultima_predicacion: 2026-06-13
 tipo: sermon
 ---
 
-#sermon 
+#sermon
+
+---
+
 ## INTRODUCCIÓN
 
-📖 **Texto base: 2 Timoteo 1:6-7**
-> *"Por lo cual te aconsejo que avives el fuego del don de Dios que está en ti... Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio."*
+**Texto base: 2 Timoteo 1:6-7**
 
-**Hook:**
-Hay algo que Dios puso en vos. Un propósito, un llamado, una dirección. Y vos lo sabés.
-Pero hay algo que no te deja avanzar.
+> *"Por esta razón, te recuerdo que avives el don espiritual que Dios te dio cuando te impuse mis manos. Pues Dios no nos ha dado un espíritu de temor y timidez sino de poder, amor y autodisciplina."*
+> — 2 Timoteo 1:6-7 NTV
 
-No es falta de tiempo. No es falta de recursos. No es que todavía no llegó el momento.
-
-Es el miedo.
+**Hook:** Falta agregar algun enganche.
 
 ---
 
-**El detalle que lo abre todo — versículo 6:**
-Antes de hablar de lo que Dios te dio, Pablo le dice a Timoteo: **"aviva el fuego del don que está en ti."**
+**La estructura del versículo**
 
-No dice: "pedile a Dios lo que no tenés."
-Dice: **avivá lo que ya está.**
+Pablo nombra un problema. Después da tres respuestas.
 
-El miedo no te quitó nada. Solo apagó lo que Dios ya puso.
-
----
-
-**La estructura del versículo:**
-
-Pablo contrasta una sola cosa contra tres:
-
-- **Cobardía** → lo que el miedo produce
-- **Poder + Amor + Dominio propio** → lo que Dios ya te dio para combatirlo
-
-Tres herramientas. Una para cada tipo de miedo.
+| Problema | Respuesta |
+|---|---|
+| **Temor y timidez** | el problema que frena el propósito |
+| **Poder** | respuesta 1 |
+| **Amor** | respuesta 2 |
+| **Dominio propio** | respuesta 3 |
 
 ---
 
-## 🔸 A — PODER: el miedo a no ser suficiente
+## 1 — TEMOR Y TIMIDEZ
 
-> *"Recibiréis poder cuando haya venido sobre vosotros el Espíritu Santo."* — Hechos 1:8
+### Timoteo y Pablo — dos personalidades opuestas
 
-**La raíz del miedo acá:**
-"No soy suficiente. No tengo lo que hace falta. Soy muy joven, muy chico, muy poca cosa para lo que Dios me está pidiendo."
+timoteo parecia ser una persona cohibida, historicamente en todos los versiculos se lo nota timido, con miedo, y temor constante. no es un evento aislado, la personalidad de el ya era asi. era una persona que no buscaba confrontacion nunca, si no que la evitaba.
 
-### 1. El poder no es tuyo — pero está disponible
+> **Pablo le dijo a timoteo 25 veces distintas que sea valiente. ¿por qué será?**
 
-- **Griego:** *dunamis* — de la misma raíz que dinamita. No es fuerza humana ni esfuerzo propio. Es habilitación sobrenatural.
-- Filipenses 4:13 — *"Todo lo puedo en Cristo que me fortalece."*
-- Efesios 1:19-20 — el mismo poder que resucitó a Cristo opera en el creyente.
+**Respaldo bíblico — Timoteo:**
 
-### 2. Historia — Gedeón (Jueces 6)
+- **1 Corintios 16:10-11** — Pablo le pide a los Corintios que cuando Timoteo llegue lo reciban sin temor:
+  > *"Cuando llegue Timoteo, trátalo bien, porque trabaja para el Señor igual que yo. No permitas que nadie lo trate con desprecio. Envíalo de regreso a mí en paz, porque lo espero junto con los demás hermanos."*
+  > — 1 Corintios 16:10-11 NTV
 
-Gedeón estaba trillando trigo **escondido dentro de un lagar** para que los madianitas no lo vieran. Literalmente agachado, con miedo, invisible.
+- **1 Timoteo 4:12** — instrucción que solo tiene sentido si Timoteo permitía que lo menospreciaran:
+  > *"No permitas que nadie te subestime por ser joven. Sé un ejemplo para todos los creyentes en lo que dices, en la forma en que vives, en tu amor, tu fe y tu pureza."*
+  > — 1 Timoteo 4:12 NTV
 
-En ese momento aparece el ángel del Señor y le dice: **"El Señor está contigo, valiente guerrero."** (Jueces 6:12)
+en cambio pablo su lider era todo lo contrario a esto. era una persona que no le tenia miedo a la confrontacion con otras personas, que permanecia firme en su posicion siempre para reprender y ministrar con actitud y determinacion
 
-No hay ironía. Dios lo llama con el nombre de lo que va a ser, no de lo que se siente.
+**Respaldo bíblico — Pablo:**
 
-Sus excusas: *"Mi clan es el más pobre de Manasés, y yo soy el menor en la casa de mi padre."* (Jueces 6:15)
-→ El miedo siempre encuentra un argumento razonable.
+- **Gálatas 2:11** — reprendió a Pedro en público sin dudar:
+  > *"Pero cuando Pedro llegó a Antioquía, tuve que enfrentarlo directamente, porque lo que hizo fue muy criticable."*
+  > — Gálatas 2:11 NTV
 
-Dios no respondió sus excusas con un debate. Le dijo: **"Ve con esta tu fuerza."** (Jueces 6:14)
+- **Hechos 23:3** — llamó "pared blanqueada" al sumo sacerdote en pleno concilio:
+  > *"Pablo lo miró fijamente y dijo: '¡Dios te golpeará a ti, hipócrita de doble cara! ¿Estás sentado ahí para juzgarme conforme a la ley, y sin embargo, en violación de la ley me ordenas que me golpeen?'"*
+  > — Hechos 23:3 NTV
 
-Después redujo su ejército de 32.000 a 300. La victoria no podía venir del tamaño del ejército — tenía que venir de Dios.
+- **Hechos 16:37** — después de ser azotado y encarcelado injustamente, no huyó — exigió disculpas públicas:
+  > *"Pero Pablo respondió: '¡Nos golpearon en público sin que se nos declarara culpables y nos echaron en la cárcel, y resulta que somos ciudadanos romanos! ¿Y ahora quieren que nos vayamos en silencio? ¡De ninguna manera! ¡Que vengan ellos mismos a ponernos en libertad!'"*
+  > — Hechos 16:37 NTV
 
-> Ganó con antorchas, cántaros y trompetas. Sin espadas.
+- **2 Corintios 11:23-25** — cárceles, azotes, naufragios, peligros constantes — ninguno lo frenó:
+  > *"¿Han trabajado más duro para Cristo? Yo sí. ¿Han sido puestos en la cárcel con más frecuencia? Yo sí. ¿Han sido azotados con tiras de cuero innumerables veces? Yo sí. ¿Han enfrentado la muerte una y otra vez? Yo sí. En cinco ocasiones distintas, los líderes judíos me dieron treinta y nueve latigazos. Tres veces me azotaron con varas. Una vez me apedrearon. Tres veces sufrí naufragios."*
+  > — 2 Corintios 11:23-25 NTV
 
-### 3. Aplicación práctica
+- **Filipenses 1:20-21** — sin miedo a la muerte:
+  > *"Espero con anhelo y esperanza que nunca seré puesto en vergüenza, sino que seguiré actuando con valor por Cristo, como lo he hecho en el pasado. Y confío en que mi vida traerá honor a Cristo, ya sea que yo viva o muera. Pues, para mí, vivir significa vivir para Cristo y morir es aún mejor."*
+  > — Filipenses 1:20-21 NTV
 
-- El que siente que tiene que esperar a ser "más maduro" para servir.
-- El que cree que no tiene las palabras para hablar de Dios con sus amigos.
-- El que enterró lo que Dios le dio porque no se sentía capaz de usarlo.
-
-💬 _Frase predicable:_
-**"El miedo dice: no tenés lo que hace falta. El poder de Dios dice: nunca dependió de lo que vos tenés."**
-
----
-
-## 🔸 B — AMOR: el miedo al rechazo
-
-> *"El amor perfecto echa fuera el temor, porque el temor lleva en sí castigo."* — 1 Juan 4:18
-
-**La raíz del miedo acá:**
-"¿Y si fallo delante de todos? ¿Y si me juzgan? ¿Y si después de equivocarme Dios me da la espalda?"
-
-### 1. De dónde viene este miedo
-
-- El miedo nace de anticipar un castigo: el rechazo, la humillación, el abandono.
-- Cuando sabés que sos amado incondicionalmente, el castigo pierde poder. No hay nada que perder que Dios no haya ya cubierto.
-- Romanos 5:8 — *"Dios mostró su amor en que cuando todavía éramos pecadores, Cristo murió por nosotros."*
-- Romanos 8:38-39 — nada puede separar del amor de Dios.
-
-### 2. Historia — Elías bajo el enebro (1 Reyes 19)
-
-Elías acaba de ganar la batalla más grande de su vida: 850 profetas solos contra él en el Monte Carmelo. Victoria total.
-
-Una sola amenaza de Jezabel y corre al desierto, se sienta bajo un árbol y pide morir:
-> *"Basta ya, Señor. Quítame la vida."* (1 Reyes 19:4)
-
-Hay un miedo que aparece **después de las victorias**, no antes de las batallas. Es el miedo del agotamiento.
-
-¿Cómo responde Dios? No lo reprende. No le predica. Le da **pan y agua**. Dos veces.
-*"Levántate y come, porque largo es el camino."* (1 Reyes 19:7)
-
-Después le habla. Pero no en el viento, no en el terremoto, no en el fuego.
-En una **voz apacible y delicada.**
-
-El amor de Dios no siempre responde al miedo con un sermón — a veces responde con presencia.
-
-### 3. Aplicación práctica
-
-- El que no habla de Dios en su colegio o grupo de amigos por miedo al rechazo.
-- El que se alejó de Dios después de equivocarse porque creyó que Dios ya no lo quería.
-- El que no da el paso porque "¿y si fallo y todos me ven?"
-
-💬 _Frase predicable:_
-**"El amor de Dios no es una recompensa por no tener miedo. Es la razón por la que el miedo puede dejar de tener la última palabra."**
+- **Hechos de Pablo** *(texto apócrifo, s. II)*: lo describe como un hombre de presencia imponente y espíritu que no retrocedía ante nadie.
 
 ---
 
-## 🔸 C — DOMINIO PROPIO: el miedo que te miente
+### Timoteo tenía todo a cargo — y era tímido
 
-> *"En perfecta paz guardarás al de firme propósito, cuya mente en ti persevera."* — Isaías 26:3
+Timoteo, historicamente parecia tener muchas cosas y responsabilidades del ministerio a cargo.
 
-**La raíz del miedo acá:**
-El miedo no solo paraliza — **distorsiona**. Hace que sobrevalores el riesgo, que repitas el peor escenario posible en la cabeza, que tomes decisiones desde la emoción y no desde la verdad.
+una persona timida y joven en lugares importantes y con privilegios y responsabilidades grandes.
 
-### 1. Lo que el griego dice
+pero que de el dependia espiritualmente todo el ministerio, por eso en 1 y 2 de timoteo se ve que pablo de 25 formas diferentes le dice a timoteo que sea valiente
 
-**Griego:** *sophronismos* — no es exactamente "aguantarse las ganas". Es **mente sana, pensamiento ordenado, claridad mental**. La capacidad de pensar con la verdad de Dios en lugar del ruido del miedo.
+**Respaldo histórico:**
 
-- Romanos 12:2 — *"Transformaos por la renovación de vuestro entendimiento."*
-- Filipenses 4:6-7 — la paz que sobrepasa todo entendimiento como guardián de la mente.
+- **Eusebio de Cesarea** *(Historia Eclesiástica, Libro III, Cap. 4)*: menciona a Timoteo como primer obispo de Éfeso — supervisaba múltiples iglesias en toda la región de Asia Menor.
+- **Hechos 19:9-10, 17-20**: la región de Éfeso concentraba decenas de congregaciones. Todo eso dependía de Timoteo.
 
-### 2. Historia — Los diez espías vs. Caleb y Josué (Números 13-14)
+---
 
-Doce espías. La misma tierra. Los mismos gigantes. La misma información.
+### El primer paso para enfrentar el miedo: entender de dónde viene
 
-Los diez dicen: *"Éramos como langostas ante ellos."* (Nm 13:33)
-Los dos dicen: *"Podemos tomar la tierra."* (Nm 13:30)
+el primer paso para enfrentar el miedo es entender que no viene de Dios.
 
-Nadie tenía más información que el otro. La diferencia era **desde dónde pensaban**.
+viene de tu personalidad, quiza de una debilidad tuya de tu carne, quiza un ataque demoniaco, pero **nunca viene de Dios.**
 
-Los diez pensaron desde el miedo. El *sophronismos* ausente distorsionó lo que vieron.
-Caleb y Josué pensaron desde la promesa.
+> *"Pues Dios no nos ha dado un espíritu de temor y timidez..."*
+> — 2 Tim 1:7 NTV
 
-**Consecuencia:** La generación entera que pensó desde el miedo no entró a la promesa. Cuarenta años en el desierto por una forma de pensar.
+Si no viene de Dios, no tenés que aceptarlo como parte de quién sos. De Dios viene lo siguiente...
 
-El miedo de diez personas arrastró a toda la congregación. Israel lloró toda la noche. (Nm 14:1)
+---
 
-### 3. Aplicación práctica
+## 2 — PODER
 
-- El que da vueltas durante horas antes de tomar una decisión, imaginando siempre el peor caso.
-- El que se convence de que "no es para mí" antes de intentarlo.
-- El que basa sus decisiones en lo que siente en el momento en lugar de en lo que Dios dice.
+> *"Pero recibirán poder cuando el Espíritu Santo descienda sobre ustedes; y serán mis testigos, y le hablarán a la gente acerca de mí en todas partes: en Jerusalén, por toda Judea, en Samaria y hasta los lugares más lejanos de la tierra."*
+> — Hechos 1:8 NTV
 
-💬 _Frase predicable:_
-**"El miedo no solo te frena. Te miente. El dominio propio es elegir pensar con la verdad de Dios más fuerte que con el ruido de tus miedos."**
+*"No soy suficiente. No tengo lo que hace falta."*
+
+### Aviva el fuego que ya está
+
+**aviva el fuego que hay en ti** — no hay que esperar o pedirlo, hay que avivarlo
+
+no se trata de que el fuego sea nuevo, si no de que se avive el que ya esta en vos.
+
+La palabra griega *anazopyrein* — **reavivar brasas que ya existen**. No encender un fuego nuevo. **Soplar sobre algo que todavía está vivo pero casi apagado.** *(ejemplo de una persona con el fuego de una parrilla)*
+
+### Tener actitud ante el miedo — El talento no es suficiente
+
+La psicologa de maximo nos dijo que **la unica forma de deshacerse del miedo es enfrentarlo.** El tiene que entrar a la pileta, tiene que tener la actitud de entrar. solo, desde afuera no puede hacer nada.
+
+no alcanza con tener talento, que alguien sea talentoso, no quiere decir que este usando bien su talento.
+
+**el talento solo es bien usado cuando es para la gloria de Dios**
+
+- esto refiere a 2 cosas:
+  - gente que no usa su talento por miedo *(mal usado)*
+  - gente que usa su talento pero no para la gloria de Dios *(mal usado tambien)*
+
+timoteo no podia ser pasivo, tenia que **ponerse manos a la obra.**
+
+### De Dios viene el poder
+
+de dios viene el poder: es poder de El, no es nuestro. En el si podemos, cuando usamos nuestro poder no.
+
+- **Filipenses 4:13**
+  > *"Pues todo lo puedo hacer por medio de Cristo, quien me da las fuerzas."*
+  > — Filipenses 4:13 NTV
+
+- **Efesios 1:19-20**
+  > *"También quiero que entiendan lo increíblemente grande que es el poder de Dios para ayudar a los que creen en él. Es el mismo gran poder que levantó a Cristo de los muertos y lo sentó en el lugar de honor que está a la derecha de Dios en los lugares celestiales."*
+  > — Efesios 1:19-20 NTV
+
+### Aplicación práctica
+
+- El que cree que tiene que esperar a ser "más maduro" para arrancar.
+- El que siente que no tiene las palabras, el talento o la capacidad.
+- El que enterró lo que Dios le dio porque se comparó.
+
+> **"El propósito que Dios puso en vos nunca dependió de lo que vos tenés. Dependió de lo que Él puso en vos. Y eso ya está."**
+
+---
+
+## 3 — AMOR
+
+> *"En esa clase de amor no hay temor, porque el amor perfecto expulsa todo temor. Si tenemos miedo es por temor al castigo, y esto muestra que no hemos experimentado plenamente el perfecto amor de Dios."*
+> — 1 Juan 4:18 NTV
+
+*"¿Y si fallo? ¿Y si me equivoco? ¿Y si Dios me da la espalda después de esto?"*
+
+### Lo que pensamos que es el amor — y lo que es
+
+de dios viene el amor: el amor que muchos pensamos que es dominio de los demas, manipulacion, fuerza, o poder adquisitivo, cuando no.
+
+> **el amor es el poder mas grande.**
+
+Jesus con el poder lavo los pies de sus discípulos.
+
+> *"Jesús sabía que el Padre le había dado autoridad sobre todas las cosas y que había venido de Dios y regresaría a Dios. Así que se levantó de la mesa, se quitó el manto, se ató una toalla alrededor de la cintura y echó agua en un recipiente. Luego comenzó a lavarles los pies a los discípulos y a secárselos con la toalla que tenía en la cintura."*
+> — Juan 13:3-5 NTV
+
+### El amor vence todo
+
+- **el amor vence el odio** — cuando alguien te molesta, te odia. el amor es mas grande siempre.
+- el amor vence cuando algo te desafia.
+- **el amor vence cuando te abandonan** — cuando uno tiene amor mas grande que el sentimiento o la tristeza de ser abandonado, lo vence.
+- **el amor vence cuando te traicionan.**
+
+y asi podemos hablar mucho, el amor es lo mas grande que hay y es todo lo contrario a lo que quiza pensamos.
+
+> **"El amor de Dios no se pierde cuando fallás, el propósito tampoco. Podés seguir."**
+
+---
+
+## 4 — DOMINIO PROPIO
+
+cuando el miedo toma el control, tomamos malas decisiones. no pensamos claro. el panico nos nubla.
+
+- en la economia a veces tomamos malas decisiones pensando en la avaricia de comprar cosas inutiles.
+- en el amor, tomamos malas decisiones pensando en el pecado
+- en el colegio, tomamos malas decisiones porque no podemos controlarnos a nosotros mismos, nuestra carne nuestras intenciones, nuestro pecado.
+
+Dios nos dio el poder de autocontrolarnos.
+
+### Sophronismos: mente calma, no mente sin miedo
+
+La palabra griega *sophronismos* — traducida como "dominio propio" — lleva la idea de una **mente en calma, con autocontrol**, en contraste con el **pánico y la confusión** que se apodera de nosotros cuando estamos en una situación que nos provoca miedo.
+
+El miedo no solo te paraliza. Te nubla. Las peores decisiones de tu vida las tomaste desde el pánico.
+
+Dios no te da una mente que no siente miedo. Te da una mente que puede pensar claro igual.
+
+- **Filipenses 4:6-7**
+  > *"No se preocupen por nada; en cambio, oren por todo. Díganle a Dios lo que necesitan y denle gracias por todo lo que él ha hecho. Así experimentarán la paz de Dios, que supera todo lo que podemos entender. La paz de Dios cuidará su corazón y su mente mientras vivan en Cristo Jesús."*
+  > — Filipenses 4:6-7 NTV
+
+> **"Dios no te prometió una mente que no siente miedo. Te dio una mente que puede pensar claro igual."**
 
 ---
 
 ## CONCLUSIÓN
 
-Dios no te prometió que no ibas a tener miedo.
-Gedeón tuvo miedo. Moisés tuvo miedo. Elías tuvo miedo.
+El propósito de Dios para tu vida no es que hagas plata, que te diviertas, que tengas comodidades. Es que uses los dones que Él te dio para tocar a su pueblo y ayudar a un mundo que necesita de Él.
 
-La diferencia no es si tenés miedo o no.
-La diferencia es con qué herramientas avanzás mientras lo tenés.
+El miedo y la timidez son exactamente lo que va a impedir que eso pase.
 
-- Cuando sientas que no podés → **poder** que no depende de vos.
-- Cuando tengas miedo al rechazo → **amor** que no tiene condiciones.
-- Cuando el miedo te distorsione cómo pensás → **dominio propio** para volver a la verdad.
+No tenés que aceptar lo que Dios no te dio. **Y tenés que caminar en lo que sí te dio.**
 
-El don ya está en vos. Solo necesita que lo avives.
+El propósito que Dios puso en vos sigue ahí. Solo necesita que lo avives.
 
-💬 _Frase final:_
-**"Dios no te prometió que no ibas a tener miedo. Te dio todo lo que necesitás para avanzar igual."**
+> **"Dios no te prometió que no ibas a tener miedo. Te dio todo lo que necesitás para avanzar igual."**
 
 ---
 
 ### Dinámica
 
-_(Para 80+ jóvenes desde plataforma)_
+*(Para 80+ jóvenes desde plataforma)*
 
 Antes del cierre, pedís silencio. Una sola pregunta:
 

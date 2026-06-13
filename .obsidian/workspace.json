@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "church/sermons/Miedo al fracaso-factum.md",
-                "mode": "preview",
+                "file": "church/sermons/El miedo que no te deja avanzar.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miedo al fracaso-factum"
+              "title": "El miedo que no te deja avanzar"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "5baa5b03375301ac",
@@ -181,6 +182,7 @@
   },
   "active": "8876b49c1f8b06de",
   "lastOpenFiles": [
+    "church/sermons/Miedo al fracaso-factum.md",
     "church/sermons/El miedo que no te deja avanzar.md",
     "church/sermons/Tu Yo del mañana - el joven rico.md",
     "church/sermons/Ofrendas.md",
@@ -216,7 +218,6 @@
     "knowledge/Contenedores/deploy-process-guide-detailed.md",
     "work/proyects/zco/ARQUITECTURA_PROPUESTA_ZCO_V2.md",
     "work/notes/notas backlog.md",
-    "work/notes/cuantica repo.md",
     "Untitled.canvas",
     "church/projects/Multimedia igle/pantallas/opción 1/Pantallas 1.canvas",
     "church/projects/Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
