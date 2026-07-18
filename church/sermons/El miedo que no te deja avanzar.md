@@ -162,19 +162,6 @@ de dios viene el poder: es poder de El, no es nuestro. En el si podemos, cuando 
 > *"En esa clase de amor no hay temor, porque el amor perfecto expulsa todo temor. Si tenemos miedo es por temor al castigo, y esto muestra que no hemos experimentado plenamente el perfecto amor de Dios."*
 > — 1 Juan 4:18 NTV
 
-*"¿Y si fallo? ¿Y si me equivoco? ¿Y si Dios me da la espalda después de esto?"*
-
-### Lo que pensamos que es el amor — y lo que es
-
-de dios viene el amor: el amor que muchos pensamos que es dominio de los demas, manipulacion, fuerza, o poder adquisitivo, cuando no.
-
-> **el amor es el poder mas grande.**
-
-Jesus con el poder lavo los pies de sus discípulos.
-
-> *"Jesús sabía que el Padre le había dado autoridad sobre todas las cosas y que había venido de Dios y regresaría a Dios. Así que se levantó de la mesa, se quitó el manto, se ató una toalla alrededor de la cintura y echó agua en un recipiente. Luego comenzó a lavarles los pies a los discípulos y a secárselos con la toalla que tenía en la cintura."*
-> — Juan 13:3-5 NTV
-
 ### El amor vence todo
 
 - **el amor vence el odio** — cuando alguien te molesta, te odia. el amor es mas grande siempre.
