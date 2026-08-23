@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Cupertino",
   "accentColor": "#66a1ff",
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "theme": "system",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "showRibbon": true,
   "showViewHeader": true,
   "nativeMenus": true

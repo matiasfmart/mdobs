@@ -29,5 +29,9 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "tabSize": 8,
+  "rightToLeft": false,
+  "showLineNumber": true,
+  "defaultViewMode": "source"
 }
