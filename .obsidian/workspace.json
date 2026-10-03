@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8876b49c1f8b06de",
+            "id": "59bf7bd2a15d5847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "church/sermons/Ofrendas - Streamming example.md",
+                "file": "church/sermons/El proposito de Dios con tu vida - sin vueltas version.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ofrendas - Streamming example"
+              "title": "El proposito de Dios con tu vida - sin vueltas version"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,10 +181,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "8876b49c1f8b06de",
+  "active": "59bf7bd2a15d5847",
   "lastOpenFiles": [
-    "church/sermons/Fiel en lo Poco.md",
+    "church/sermons/El proposito es YA.md",
+    "church/sermons/El proposito de Dios con tu vida - sin vueltas version.md",
+    "church/sermons/_Mapa de Contenido.md",
+    "church/sermons/El llamado.md",
+    "church/sermons/la gloria del padre.md",
+    "church/sermons/No pierdas el foco.md",
+    "church/sermons/El camino la verdad y la vida.md",
+    "church/sermons/Dirección + Responsabilidad = Propósito - Cierre 2025.md",
+    "church/sermons/Direción + Responsabilidad = Propósito - Cierre 2025.md",
+    "church/sermons/Diferentes al resto.md",
+    "church/sermons/la tunica de colores - borrador.md",
+    "church/sermons/La carga correcta.md",
     "church/sermons/Ofrendas - Streamming example.md",
+    "church/sermons/Fiel en lo Poco.md",
     "church/sermons/Temas.md",
     "church/sermons/Sos lo que Dios dice, no lo que el mundo dice - boceto.md",
     "church/sermons/sermons.base",
@@ -195,19 +209,7 @@
     "church/sermons/La economia del cristiano (encuentro).md",
     "church/sermons/Diezmos y ofrendas.md",
     "church/sermons/Ofrendas.md",
-    "church/sermons/la gloria del padre.md",
     "church/sermons/Buscando Lio.md",
-    "church/sermons/buscando lio - notas.md",
-    "church/sermons/Buscar primero a Dios.md",
-    "church/sermons/El deseo correcto.md",
-    "church/sermons/El impacto del cristiano - refinar.md",
-    "church/sermons/El camino la verdad y la vida.md",
-    "church/sermons/Dirección + Responsabilidad = Propósito - Cierre 2025.md",
-    "church/sermons/Conducta intachable.md",
-    "church/sermons/Amistad que transforma.md",
-    "church/sermons/Ambito social y redes sociales.md",
-    "church/sermons/Diferentes al resto.md",
-    "Untitled.md",
     "Untitled.canvas",
     "knowledge/context-first AI development scaffolding",
     "Untitled.base",

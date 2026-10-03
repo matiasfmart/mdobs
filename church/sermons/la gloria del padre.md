@@ -3,7 +3,6 @@ fecha_creacion:
 ultima_predicacion:
 tipo: campamento - Campamento Jóvenes
 ---
-
 #campamentojovenes #sermon 
 
 ## Introduccion

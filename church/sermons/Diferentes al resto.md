@@ -3,7 +3,6 @@ fecha_creacion:
 ultima_predicacion:
 tipo: sermon
 ---
-
 #sermon 
 **Filipenses 2:14-15 (RVR1960)**: "Haced todo sin murmuraciones y contiendas, para que seáis irreprensibles y sencillos, hijos de Dios sin mancha en medio de una generación maligna y perversa, en medio de la cual resplandecéis como luminares en el mundo."
 
